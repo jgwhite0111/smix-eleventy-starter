@@ -11,7 +11,7 @@
         {% assign lastItem = navigation | last %}
         {% for item in navigation %}
             <a href="{{ item.link }}">{{ item.title }}</a>
-            <b>{{ lastItem.title }}</b>
+            {% if item != lastItem %} | {% endif %}
         {% endfor %}
     </nav>
 </header>
