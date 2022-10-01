@@ -20,15 +20,15 @@ code {
   padding: 0.25rem;
   border-radius: 0.25rem;
   font-size: var(--text-sm);
-  /* background-color: var(--blue-100); */
-  /* color: var(--blue-700); */
+  /* background-color: var(--pink-100); */
+  /* color: var(--pink-700); */
   vertical-align: middle;
 }
 
 @media screen and (--dm) {
   code {
     /* background-color: var(--gray-900); */
-    /* color: var(--blue-300); */
+    /* color: var(--pink-300); */
   }
 }
 
