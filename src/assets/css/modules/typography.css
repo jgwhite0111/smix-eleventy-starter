@@ -157,7 +157,7 @@ ul:not(.unstyled-list) {
 }
 
 a {
-  color: var(--pink-700);
+  color: var(--blue-700);
 
   &:focus {
     outline-style: solid;
@@ -170,7 +170,7 @@ a {
 
 @media screen and (--dm) {
   a {
-    color: var(--pink-600);
+    color: var(--blue-600);
   }
 }
 
