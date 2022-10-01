@@ -9,8 +9,8 @@
 
     <nav>
         {% assign lastItem = navigation | last %}
-        | {% for item in navigation %}
-            <a href="{{ item.link }}">{{ item.title }}</a> | 
+        {% for item in navigation %}
+            <a href="{{ item.link }}">{{ item.title }}</a>
         {% endfor %}
     </nav>
 </header>
