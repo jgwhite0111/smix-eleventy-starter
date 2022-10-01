@@ -4,6 +4,8 @@ body {
 
 .my-2 {
   color: blue;
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: lowercase;
   font-style: italic;
   font-size: 70px;
   letter-spacing: 7px;
