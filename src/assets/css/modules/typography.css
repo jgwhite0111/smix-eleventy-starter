@@ -2,16 +2,6 @@ body {
   font-family: var(--sans-fontset);
 }
 
-.my-2 {
-  color: blue;
-  font-family: 'Times New Roman', Times, serif;
-  text-transform: lowercase;
-  font-style: italic;
-  font-size: 70px;
-  letter-spacing: 7px;
-  animation: flicker 2s infinite alternate;
-}
-
 /* Exclusions to margin-bottom. */
 a {
   margin-bottom: 0;
