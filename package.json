@@ -27,9 +27,9 @@
 		}
 	},
 	"author": {
-		"name": "Ru Singh",
-		"email": "hello@rusingh.com",
-		"url": "https://rusingh.com/"
+		"name": "Joe White",
+		"email": "joewhite@fastmail.com",
+		"url": "https://joewhite.dev/"
 	},
 	"license": "GNU GPLv3",
 	"devDependencies": {
