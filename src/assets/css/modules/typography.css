@@ -2,12 +2,12 @@ body {
   font-family: var(--sans-fontset);
 }
 
-my-2 {
+.my-2 {
   font-family: "Open Sans", sans-serif;
   line-height: 1.6;
   text-rendering: optimizeLegibility;
   font-size: 2em;
-  color: rgb(197, 148, 197);
+  text-transform: lowercase;
   letter-spacing: 2px;
   font-variant: small-caps;
 }
