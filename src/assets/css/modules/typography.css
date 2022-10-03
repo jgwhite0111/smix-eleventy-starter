@@ -3,12 +3,7 @@ body {
 }
 
 .my-2 h1 {
-  font-family: "Open Sans", sans-serif;
-  line-height: 1.6;
-  text-rendering: optimizeLegibility;
-  font-size: 2em;
   text-transform: lowercase;
-  letter-spacing: 2px;
 }
 
 /* Exclusions to margin-bottom. */
