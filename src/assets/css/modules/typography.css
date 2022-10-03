@@ -4,6 +4,8 @@ body {
 
 .my-2 h1 {
   font-family: "Open Sans", sans-serif;
+  background: gray;
+  color: blue;
   line-height: 1.6;
   text-rendering: optimizeLegibility;
   font-size: 2em;
