@@ -9,7 +9,7 @@ body {
   font-size: 2em;
   text-transform: lowercase;
   letter-spacing: 2px;
-  font-variant: small-caps;
+  text-transform: lowercase;
 }
 
 /* Exclusions to margin-bottom. */
