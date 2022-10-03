@@ -10,7 +10,7 @@ eleventyComputed:
   content-description: "Articles, notes, photos, and replies by {% getOwnerInfo 'name' %}"
 ---
 <section>
-	{% include 'page-title' title:title %}
+	{% comment %}{% include 'page-title' title:title %}{% endcomment %}
 	<main>
 		{% for post in posts %}
 			{% include 'post-card' post:post %}
